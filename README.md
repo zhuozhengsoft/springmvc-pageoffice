@@ -19,7 +19,8 @@
 ### 五、PageOffice序列号
 
  PageOfficeV5.0标准版试用序列号：I2BFU-MQ89-M4ZZ-ZWY7K
-​ PageOfficeV5.0专业版试用序列号：DJMTF-HYK4-BDQ3-2MBUC
+
+ ​PageOfficeV5.0专业版试用序列号：DJMTF-HYK4-BDQ3-2MBUC
 
 ### 六、集成PageOffice到您的项目中的关键步骤
 
